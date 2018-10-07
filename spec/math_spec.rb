@@ -1,5 +1,5 @@
 require 'lib/math.rb'
-require_relative '../lib/.rb'
+require_relative '../lib/math.rb'
 
 describe "#addition" do 
   it "adds two numbers together" do
