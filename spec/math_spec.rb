@@ -1,4 +1,4 @@
-require 'lib/math.rb'
+require 'spec_helper.rb'
 require_relative '../lib/math.rb'
 
 describe "#addition" do 
